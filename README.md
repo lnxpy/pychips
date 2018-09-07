@@ -38,7 +38,7 @@ How to Answer the Questions?<br>
 2 : here you must give a value ( Black or White ) color to each pixels<br>
 <br>
 3 : take you'r picture<br>
-<img src='https://github.com/lnxpy/lnxpy/blob/master/pychips.jpg'>
+<img src='https://github.com/lnxpy/Pychips/blob/master/pychips.jpg'>
 <br>
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.<br>
 Be Happy :)<br>
