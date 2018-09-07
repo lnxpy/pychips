@@ -11,19 +11,19 @@ Tip : in this version you can make Black & White pictures!<br>
 you can install the Opencv and numpy manually!<br>
 HOW?<br>
 <br>
-Linux<br>
+#Linux<br>
 1 - installing the pip3<br>
     sudo apt install python3-pip<br>
 2 - installing the Opencv<br>
     sudo pip3 install opencv-python<br>
 <br>
-Windows<br>
+#Windows<br>
 1 - installing the Opencv<br>
     pip install opencv-python<br>
 <br>
 Tip : so you don't need to run setup.py<br>
 <br>
-USAGE<br>
+#USAGE<br>
 after importing the modules and starting the Pychips, you should answer some Questions!<br>
 <br>
 1 : Enter the picture range<br>
@@ -38,6 +38,7 @@ How to Answer the Questions?<br>
 2 : here you must give a value ( Black or White ) color to each pixels<br>
 <br>
 3 : take you'r picture<br>
+<img src='https://github.com/lnxpy/lnxpy/blob/master/pychips.jpg'>
 <br>
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.<br>
 Be Happy :)<br>
