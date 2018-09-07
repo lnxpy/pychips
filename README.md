@@ -11,7 +11,7 @@ Tip : in this version you can make Black & White pictures!<br>
 you can install the Opencv and numpy manually!<br>
 HOW?<br>
 <br>
-#Linux<br>
+# Linux<br>
 1 - installing the pip3<br>
     sudo apt install python3-pip<br>
 2 - installing the Opencv<br>
@@ -23,7 +23,7 @@ HOW?<br>
 <br>
 Tip : so you don't need to run setup.py<br>
 <br>
-#USAGE<br>
+# USAGE<br>
 after importing the modules and starting the Pychips, you should answer some Questions!<br>
 <br>
 1 : Enter the picture range<br>
