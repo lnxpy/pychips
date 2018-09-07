@@ -17,7 +17,7 @@ HOW?<br>
 2 - installing the Opencv<br>
     sudo pip3 install opencv-python<br>
 <br>
-#Windows<br>
+# Windows<br>
 1 - installing the Opencv<br>
     pip install opencv-python<br>
 <br>
