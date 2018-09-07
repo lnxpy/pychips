@@ -42,5 +42,5 @@ How to Answer the Questions?<br>
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.<br>
 Be Happy :)<br>
 <br>
-alireza yahyapour (lnxpy)<br>
+alireza yahyapour<br>
 lnxpylnxpy@gmail.com
