@@ -2,6 +2,7 @@
 Make You'r Own Picture 🖼
 <br><br>
 Hi Guys, Welcome to Pychips!
+<br>
 First you've to install python3-pip then if you have'nt install Opencv yet , Run the setup.py
 with Pychips you can make you'r picture by playing with matrises ans arrays!
 you can run setup.py and watch the result (of installation of cv and numpy)
