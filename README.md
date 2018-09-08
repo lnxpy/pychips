@@ -1,8 +1,7 @@
 # Pychips
 Make You'r Own Picture 🖼
-
+<br>
 Hi Guys, Welcome to Pychips!
-
 First you've to install python3-pip then if you have'nt install Opencv yet , Run the setup.py
 with Pychips you can make you'r picture by playing with matrises ans arrays!
 you can run setup.py and watch the result (of installation of cv and numpy)
@@ -41,7 +40,7 @@ How to Answer the Questions?
 it's a renge between (0 to 5)(0 to 255)
 
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.
-Be Happy :)
+<br>Be Happy :)
 <br><br>
 alireza yahyapour<br>
 lnxpylnxpy@gmail.com
