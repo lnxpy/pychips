@@ -39,7 +39,7 @@ How to Answer the Questions?
 
 2 : here you must give a value ( Black or White ) color to each pixels
 it's a renge between (0 to 5)(0 to 255)
-<img src='https://github.com/lnxpy/Pychips/blob/master/usage.gif'>
+<center><img src='https://github.com/lnxpy/Pychips/blob/master/usage.gif' width='50%'></center>
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.
 <br>Be Happy :)
 <br><br>
