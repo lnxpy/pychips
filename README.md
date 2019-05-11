@@ -1,5 +1,5 @@
 # Pychips
-Make You'r Own Picture 🖼
+Play with matrices and see the tricks
 <br><br>
 Hi Guys, Welcome to Pychips!
 <br>
