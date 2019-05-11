@@ -1,9 +1,7 @@
 # Pychips
 Play with matrices and see the tricks
 <br><br>
-Hi Guys, Welcome to Pychips!
-<br>
-First you've to install python3-pip then if you have'nt install Opencv yet , Run the setup.py
+First of all, you've to install python3-pip then if you have'nt install Opencv yet , Run the setup.py
 with Pychips you can make you'r picture by playing with matrises ans arrays!
 you can run setup.py and watch the result (of installation of cv and numpy)
 Pychips uses the Numpy Arrays Because cv2.imread() function can get input by Array patterns.
@@ -41,7 +39,3 @@ How to Answer the Questions?
 it's a renge between (0 to 5)(0 to 255)
 <br><br><img src='https://github.com/lnxpy/Pychips/blob/master/usage.gif'><br><br>
 in the main program (Pychips.py) you can Enter the Pixel coefficient for making better you'r Image.
-<br>Be Happy :)
-<br><br>
-alireza yahyapour<br>
-lnxpylnxpy@gmail.com
